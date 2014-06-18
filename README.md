@@ -14,9 +14,14 @@ Installation
 
     - `~/Library/Keyboard Layouts`
     or
-    - `/Library/Keyboard Layouts`
+    - `/Library/Keyboard Layouts`.
 
-2. Choose the layout by following [OS X Mavericks: Use input sources to type in other languages](http://support.apple.com/kb/PH13835)
+
+
+Using
+-------
+
+Choose the layout by following [OS X Mavericks: Use input sources to type in other languages](http://support.apple.com/kb/PH13835).
 
 
 Editing
