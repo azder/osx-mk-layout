@@ -32,4 +32,7 @@ Choose the layout by following one of:
 Editing
 -------
 
-The `.keylayout` files can be edited using the [Ukelele](http://www.macupdate.com/app/mac/14495/ukelele) application.
+The `.keylayout` files can be edited using the
+[Ukelele](http://www.macupdate.com/app/mac/14495/ukelele) application
+and their structure is explained at
+[Technical Note TN2056 Installable Keyboard Layouts](https://developer.apple.com/library/mac/technotes/tn2056/_index.html).
