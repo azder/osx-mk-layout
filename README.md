@@ -6,15 +6,16 @@ OS X Macedonian Keyboard Layout
 Installation
 -------------
 
-1. Copy the files:
-      - `mk-01.icns` and
-      - `mk-01.keylayout`
+Copy the files:
 
-    into one of the directories:
+  - `mk-01.icns` and
+  - `mk-01.keylayout`
 
-    - `~/Library/Keyboard Layouts`
+into one of the directories:
+
+  - `~/Library/Keyboard Layouts`
     or
-    - `/Library/Keyboard Layouts`.
+  - `/Library/Keyboard Layouts`.
 
 
 
